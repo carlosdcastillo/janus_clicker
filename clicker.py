@@ -1,9 +1,7 @@
 
 import sys
-import string
 
 import os
-import fnmatch
 from collections import defaultdict
 import csv
 import math
